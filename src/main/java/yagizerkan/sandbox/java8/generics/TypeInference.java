@@ -7,7 +7,7 @@ import java.util.Map;
  * @since 08/04/2014
  */
 public class TypeInference {
-  public int getDictionarySize(Map<String, String> theMap) {
-    return theMap.size();
+  public int getDictionarySize(Map<String, String> theDict) {
+    return theDict.size();
   }
 }
